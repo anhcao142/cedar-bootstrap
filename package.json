@@ -1,0 +1,26 @@
+{
+  "name": "cedar-bootstrap",
+  "version": "0.0.0",
+  "description": "A custom bootstrap template for TOXBadge",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "~2.0.0-beta"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/boylove142/cedar-bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "cedar"
+  ],
+  "author": "boylove142",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boylove142/cedar-bootstrap/issues"
+  }
+}
